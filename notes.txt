@@ -1,0 +1,23 @@
+What is Python?
+Python is an interpreted programming language. It was created by Guido van Rossum and first released in 1991.
+
+Python is known for its simplicity and readability, which makes it a great language for beginners.
+
+What is an interpreted programming language?
+An interpreted programming language is different from a compiled language.
+
+In a compiled language, the code is translated into machine code before it is run.
+
+In an interpreted language, the code is executed line by line by an interpreter, usually written in another language.
+This makes it easier to write and test code, but it can be slower than compiled languages.
+
+What is a script?
+A script is a file that contains a series of commands that are executed by a computer. 
+Scripts are often used to automate repetitive tasks, such as renaming files, moving files, or processing data. 
+Python is often used to write scripts because of its simplicity and readability.
+
+Technically, any program that is written in a scripting language is a script. 
+However, the term is often used to refer to small programs that automate tasks on a computer. 
+The terms "scripting language" and "interpreted language" are often used interchangeably. 
+They are technically different, but the distinction is rarely important.
+
